@@ -709,3 +709,17 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Silver Precision ===== */
+:root {
+    --primary: #e2e8f0;
+    --primary-dark: #cbd5e1;
+    --accent: #94a3b8;
+    --bg-dark: #090b0e;
+    --bg-darker: #050608;
+    --bg-card: #131619;
+    --font-heading: 'Big Shoulders Display', sans-serif;
+    --font-body: 'Josefin Sans', sans-serif;
+}
+.site-header { background: rgba(9,11,14,0.85); }
+h1,h2,h3,h4,h5,h6 { letter-spacing:0.05em; font-weight:700; }
